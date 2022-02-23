@@ -1,0 +1,47 @@
+What information each scene needs
+
+Start
+-nothing
+
+SpaceDock
+-how many, if any, saved characters the player has
+-access to upgrade scene
+
+CreateCharacter
+-list of galaxies
+-list of sub-systems
+-list of components
+-list of deployables
+-list of ship types
+-access to specific stats of currently selected ship type
+-image of selected ship type
+
+Explore
+-random planets
+-random effects on planets
+-access to inventory scene
+
+Combat
+-random enemy based on solar cluster(floor) and level range
+-current ship stats, i.e. health, shields, speed, accuracy, armor
+-ship abilities
+-ship image
+
+Death
+-score (based on floor died on, and enemies defeated
+-ability to revive character
+-access to SpaceDock
+
+Loot
+-either
+--random loot, i.e. weapons, armor, engines, etc.
+--random ability
+
+Inventory/Equipment/Status
+-ship stats
+-ship equipment
+-items in inventory
+
+Upgrade
+-access to player unlocked passives
+-list of unlocked ship types

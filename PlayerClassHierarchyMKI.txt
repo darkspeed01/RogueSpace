@@ -1,0 +1,25 @@
+PLAYER INFORMATION
+-Number of Characters
+-List of Unlocked Ship Types
+
+
+CHARACTER INFORMATION
+-Commander Name
+-Ship Type
+-Galaxy (Difficulty/Destination)
+-Sub-System Equipped
+-Component Equipped
+-Deployable Item
+-Ability List (up to 5; if at 5 can replace one w/ new one)
+
+
+SHIP INFORMATION
+-Image
+-Type Name
+-Stats
+--Speed
+--Health
+--Shields
+--Armor
+--Accuracy
+--Cargo Space
