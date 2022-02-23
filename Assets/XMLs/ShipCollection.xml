@@ -1,0 +1,23 @@
+<ShipCollection>
+	<Ships>
+		<Ship name="Frigate">
+			<Health>100</Health>
+			<Armor>100</Armor>
+			<Shields>200</Shields>
+			<Speed>40</Speed>
+		</Ship>
+		<Ship name="Destroyer">
+			<Health>200</Health>
+			<Armor>200</Armor>
+			<Shields>100</Shields>
+			<Speed>20</Speed>
+		</Ship>
+		<Ship name="Cruiser">
+			<Health>300</Health>
+			<Armor>250</Armor>
+			<Shields>75</Shields>
+			<Speed>15</Speed>
+		</Ship>
+	</Ships>
+</ShipCollection>
+			
